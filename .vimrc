@@ -34,4 +34,4 @@ set expandtab
 " Coloring 
 colors solarized
 let g:solarized_termtrans = 1
-" let background=dark
+set background=dark
