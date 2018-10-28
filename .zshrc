@@ -89,6 +89,9 @@ export PATH="/usr/local/bin:/usr/local/sbin:$PATH"
 # ssh
 # export SSH_KEY_PATH="~/.ssh/rsa_id"
 
+# brew cask default install folder
+export HOMEBREW_CASK_OPTS="--appdir=~/Applications --fontdir=/Library/Fonts"
+
 # Set personal aliases, overriding those provided by oh-my-zsh libs,
 # plugins, and themes. Aliases can be placed here, though oh-my-zsh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
